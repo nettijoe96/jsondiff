@@ -1,4 +1,4 @@
-module github.com/wI2L/jsondiff
+module github.com/nettijoe96/jsondiff
 
 go 1.15
 
